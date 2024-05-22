@@ -1,8 +1,8 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Abraham+Weasel!;" />
-</h1>
+
 <img align="center" src="file:///C:/Users/Abraham/Documents/aboutmeimg.png" />
-<br/>
+
 Hau mitakuyepi, Chante wasteya napechiyuzape. Lakhotia Chetan Okan Iga emacicyapi na wasicuyapi Abraham Weasel emaciyapi. Lakhota wichasa hemacha yelo na Inyan woslal han ematanhan.
 Hello relatives, I shake your hand with a good heart. My Lakota name is Circling Hawk and my white name is Abraham Weasel. I am a Lakota man and I am from Standing Rock.
 <br/>
