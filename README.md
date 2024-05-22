@@ -3,12 +3,13 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Abraham+Weasel!;" />
 <br>
 <img style="center;" src="https://avatars.githubusercontent.com/u/166767167?v=4" width="250" height="250" />
-<h3>Introduction</h3>
+<h3><b>Introduction</b></h3>
 <em>Hau mitakuyepi, Chante wasteya napechiyuzape. Lakhotia Chetan Okan Iga emacicyapi na wasicuyapi Abraham Weasel emaciyapi. Lakhota wichasa hemacha yelo na Inyan woslal han ematanhan.</em>
 Hello relatives, I shake your hand with a good heart. My Lakota name is Circling Hawk and my white name is Abraham Weasel. I am a Lakota man and I am from Standing Rock.
 <br>
-I live in McLaughlin, South Dakota with my family. I graduated from Standing Rock High School in Fort Yates, North Dakota. I attended Sitting Bull College where I transferred to United Tribes Technical College in Fall 2023. I am pursuring my degree in Computer Information Technology, as I always an interests in computers from when I was young. 
-<h3>Contact info</h3>
+I attended Sitting Bull College in Fort Yates, North Dakota until transferring to United Tribes Technical College in Fall 2023. I am pursuring my degree in Computer Information Technology, as I always an interests in technology from when I was young. 
+    
+<h3><b>Contact Information</b></h3>
 <ul>
   <li>abrahamweasel@gmail.com</li>
   <li>weasel.abraham@stu.uttc.edu</li>
