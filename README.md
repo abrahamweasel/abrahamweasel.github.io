@@ -11,6 +11,7 @@ I attended Sitting Bull College in Fort Yates, North Dakota until transferring t
     
 <h3><b>Contact Information</b></h3>
 <ul>
-  <li><a href="abrahamweasel@gmail.com" target="_blank">personal email
-  <li><a href="weasel.abraham@stu.uttc.edu" target="_blank">college email
-      <li><a href="https://www.instagram.com/abrahamweasel/" target="_blank">instagram!
+<a href="abrahamweasel@gmail.com" target="_blank">personal email
+<a href="weasel.abraham@stu.uttc.edu" target="_blank">college email
+<a href="https://www.instagram.com/abrahamweasel/" target="_blank">instagram!
+
