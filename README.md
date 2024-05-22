@@ -1,6 +1,7 @@
+<body style="background-color:#">
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Abraham+Weasel!;" />
-<body style="background-color:#9FE2BF">
+<br>
 <img style="center;" src="https://avatars.githubusercontent.com/u/166767167?v=4" width="250" height="250" />
 <h3>Introduction</h3>
 Hau mitakuyepi, Chante wasteya napechiyuzape. Lakhotia Chetan Okan Iga emacicyapi na wasicuyapi Abraham Weasel emaciyapi. Lakhota wichasa hemacha yelo na Inyan woslal han ematanhan.
