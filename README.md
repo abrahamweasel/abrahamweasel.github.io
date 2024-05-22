@@ -9,6 +9,6 @@ Hello relatives, I shake your hand with a good heart. My Lakota name is Circling
 I live in McLaughlin, South Dakota with my family. I graduated from Standing Rock High School in Fort Yates, North Dakota. I attended Sitting Bull College where I transferred to United Tribes Technical College in Fall 2023. I am pursuring my degree in Computer Information Technology, as I always an interests in computers from when I was young. 
 <h3>Contact info</h3>
 <ul>
-  <li>angellevering@gmail.com</li>
-  <li>levering.angel@stu.uttc.edu</li>
+  <li>abrahamweasel@gmail.com</li>
+  <li>weasel.abraham@stu.uttc.edu</li>
 </ul></body>
