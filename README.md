@@ -6,6 +6,7 @@
 Hello relatives, I shake your hand with a good heart. My Lakota name is Circling Hawk and my white name is Abraham Weasel. I am a Lakota man and I am from Standing Rock.
 <h3><b>Education Background</b></h3>
 I come from a family of seven, where everyone has gone to college and earned their degree. I want to follow their footsteps and earn a degree of my own, which is why I am here today. I graduated as an honor's student from Standing Rock High School in Fort Yates, North Dakota. I enrolled into Sitting Bull College (in Fort Yates also) that following fall where I ended my first college semester on the President's List with 4.0 GPA. At first, I wanted to do my two years of General Studies my IT instructor influenced me into going into her program. Thus, I ended up switching my degree to Computer Information Technology. I transferred to United Tribes Technical College in Fall 2023. I am glad I did because not only did it spark my reinterest in technology, I met a lot of amazing people and got more opportunities. 
+<iframe src="https://drive.google.com/file/d/1g5AsqfDxYJToQcDCKDJVRy5iN0qEAS0w/preview" width="640" height="480" allow="autoplay"></iframe>
 <img style="center;" src="file:///C:/Users/Abraham/Desktop/CIS%20180/FINAL%20PROJECT/skylar%20and%20i.jpeg" width="250" height="250" />
 <br>
 <h3>What I look forward to in the ESIIL program</h3>
