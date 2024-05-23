@@ -1,4 +1,4 @@
-<body style="background-color:#">
+<body style="background-color:#b30000">
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Abraham+Weasel!;" />
 <h3>Introduction</h3>
