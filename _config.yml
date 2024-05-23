@@ -1,9 +1,9 @@
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
+title: Abraham Weasel
+logo: https://avatars.githubusercontent.com/u/166767167?v=4
+description: more photos of me on my instagram lol
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
