@@ -3,7 +3,7 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: Abraham Weasel
 logo: https://avatars.githubusercontent.com/u/166767167?v=4
-description: more photos of me on my instagram lol
+description: UTTC Computer Information Technology - Freshman(?)
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
